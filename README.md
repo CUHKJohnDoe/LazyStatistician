@@ -1,5 +1,5 @@
 # LazyStatistician
-Some might-be-useful twiddydinkies for students learning statistics!
+Some might-be-useful twiddydinkies for students learning statistics! For students or TAs at `STAT1011`.
 
 ## Chapter 2 Update
 
